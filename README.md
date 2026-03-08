@@ -1,4 +1,4 @@
-# @synergenius/flowweaver-pack-cloudflare
+# @synergenius/flow-weaver-pack-cloudflare
 
 Cloudflare Workers export target for [Flow Weaver](https://github.com/synergenius-fw/flow-weaver).
 
@@ -7,7 +7,7 @@ Generates Cloudflare Workers with Wrangler configuration from Flow Weaver workfl
 ## Installation
 
 ```bash
-npm install @synergenius/flowweaver-pack-cloudflare
+npm install @synergenius/flow-weaver-pack-cloudflare
 ```
 
 This package is a **marketplace pack** — once installed, Flow Weaver automatically discovers it via `createTargetRegistry()`.

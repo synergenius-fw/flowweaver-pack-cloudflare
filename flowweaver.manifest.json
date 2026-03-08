@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "name": "@synergenius/flowweaver-pack-cloudflare",
+  "name": "@synergenius/flow-weaver-pack-cloudflare",
   "version": "0.1.0",
   "nodeTypes": [],
   "workflows": [],
